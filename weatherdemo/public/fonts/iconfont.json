@@ -1,0 +1,107 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "628800",
+      "name": "公交 客车",
+      "font_class": "gongjiaokeche",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "870744",
+      "name": "图标-02",
+      "font_class": "tubiao02",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "945366",
+      "name": "图标-08",
+      "font_class": "tubiao08",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "1127398",
+      "name": "左箭头",
+      "font_class": "leftarrow",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1422724",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "4784116",
+      "name": "图标",
+      "font_class": "tubiao",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "5423610",
+      "name": "播放",
+      "font_class": "z",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "9512495",
+      "name": "左箭头",
+      "font_class": "arrowLeft-fill",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "9512502",
+      "name": "小车",
+      "font_class": "car",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "11268848",
+      "name": "arrowleft 左返回 箭头",
+      "font_class": "arrowleft",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "11342702",
+      "name": "通知",
+      "font_class": "tongzhi",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "12387139",
+      "name": "货车",
+      "font_class": "huoche",
+      "unicode": "e90a",
+      "unicode_decimal": 59658
+    },
+    {
+      "icon_id": "14294804",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "15531524",
+      "name": "图标55",
+      "font_class": "tubiao55",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    }
+  ]
+}
